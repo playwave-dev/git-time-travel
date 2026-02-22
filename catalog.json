@@ -4,29 +4,29 @@
     "version": "efc34df7"
   },
   "products": [
-    { "id": 1, "name": "Classic T-Shirt", "category": "clothing", "price": 499.99, "stock": 50, "rating": 4.3 },
-    { "id": 2, "name": "Denim Jeans", "category": "clothing", "price": 1299.50, "stock": 40, "rating": 4.5 },
-    { "id": 3, "name": "Leather Jacket", "category": "clothing", "price": 5499.00, "stock": 15, "rating": 4.7 },
-    { "id": 4, "name": "Sneakers", "category": "clothing", "price": 2499.99, "stock": 35, "rating": 4.4 },
-    { "id": 5, "name": "Hoodie", "category": "clothing", "price": 899.99, "stock": 60, "rating": 4.2 },
+    { "id": "prod-efc34df7-001", "name": "Classic T-Shirt", "category": "clothing", "price": 499.99, "stock": 50, "rating": 4.3 },
+    { "id": "prod-efc34df7-002", "name": "Denim Jeans", "category": "clothing", "price": 1299.50, "stock": 40, "rating": 4.5 },
+    { "id": "prod-efc34df7-003", "name": "Leather Jacket", "category": "clothing", "price": 5499.00, "stock": 15, "rating": 4.7 },
+    { "id": "prod-efc34df7-004", "name": "Sneakers", "category": "clothing", "price": 2499.99, "stock": 35, "rating": 4.4 },
+    { "id": "prod-efc34df7-005", "name": "Hoodie", "category": "clothing", "price": 899.99, "stock": 60, "rating": 4.2 },
 
-    { "id": 6, "name": "Wireless Mouse", "category": "electronics", "price": 799.99, "stock": 120, "rating": 4.6 },
-    { "id": 7, "name": "Bluetooth Speaker", "category": "electronics", "price": 1499.00, "stock": 80, "rating": 4.5 },
-    { "id": 8, "name": "Smartphone", "category": "electronics", "price": 15999.00, "stock": 25, "rating": 4.8 },
-    { "id": 9, "name": "Laptop", "category": "electronics", "price": 54999.99, "stock": 10, "rating": 4.7 },
-    { "id": 10, "name": "Power Bank", "category": "electronics", "price": 1199.00, "stock": 90, "rating": 4.3 },
+    { "id": "prod-efc34df7-006", "name": "Wireless Mouse", "category": "electronics", "price": 799.99, "stock": 120, "rating": 4.6 },
+    { "id": "prod-efc34df7-007", "name": "Bluetooth Speaker", "category": "electronics", "price": 1499.00, "stock": 80, "rating": 4.5 },
+    { "id": "prod-efc34df7-008", "name": "Smartphone", "category": "electronics", "price": 15999.00, "stock": 25, "rating": 4.8 },
+    { "id": "prod-efc34df7-009", "name": "Laptop", "category": "electronics", "price": 54999.99, "stock": 10, "rating": 4.7 },
+    { "id": "prod-efc34df7-010", "name": "Power Bank", "category": "electronics", "price": 1199.00, "stock": 90, "rating": 4.3 },
 
-    { "id": 11, "name": "Office Chair", "category": "furniture", "price": 6999.99, "stock": 20, "rating": 4.4 },
-    { "id": 12, "name": "Study Table", "category": "furniture", "price": 8999.50, "stock": 15, "rating": 4.5 },
-    { "id": 13, "name": "Bookshelf", "category": "furniture", "price": 4999.00, "stock": 18, "rating": 4.3 },
-    { "id": 14, "name": "Sofa Set", "category": "furniture", "price": 25999.99, "stock": 5, "rating": 4.6 },
-    { "id": 15, "name": "Dining Table", "category": "furniture", "price": 19999.00, "stock": 7, "rating": 4.5 },
+    { "id": "prod-efc34df7-011", "name": "Office Chair", "category": "furniture", "price": 6999.99, "stock": 20, "rating": 4.4 },
+    { "id": "prod-efc34df7-012", "name": "Study Table", "category": "furniture", "price": 8999.50, "stock": 15, "rating": 4.5 },
+    { "id": "prod-efc34df7-013", "name": "Bookshelf", "category": "furniture", "price": 4999.00, "stock": 18, "rating": 4.3 },
+    { "id": "prod-efc34df7-014", "name": "Sofa Set", "category": "furniture", "price": 25999.99, "stock": 5, "rating": 4.6 },
+    { "id": "prod-efc34df7-015", "name": "Dining Table", "category": "furniture", "price": 19999.00, "stock": 7, "rating": 4.5 },
 
-    { "id": 16, "name": "Cookware Set", "category": "kitchen", "price": 2999.00, "stock": 45, "rating": 4.4 },
-    { "id": 17, "name": "Mixer Grinder", "category": "kitchen", "price": 3499.99, "stock": 30, "rating": 4.3 },
-    { "id": 18, "name": "Air Fryer", "category": "kitchen", "price": 5999.00, "stock": 25, "rating": 4.6 },
-    { "id": 19, "name": "Water Bottle", "category": "kitchen", "price": 499.00, "stock": 150, "rating": 4.2 },
-    { "id": 20, "name": "Knife Set", "category": "kitchen", "price": 1299.00, "stock": 70, "rating": 4.4 }
+    { "id": "prod-efc34df7-016", "name": "Cookware Set", "category": "kitchen", "price": 2999.00, "stock": 45, "rating": 4.4 },
+    { "id": "prod-efc34df7-017", "name": "Mixer Grinder", "category": "kitchen", "price": 3499.99, "stock": 30, "rating": 4.3 },
+    { "id": "prod-efc34df7-018", "name": "Air Fryer", "category": "kitchen", "price": 5999.00, "stock": 25, "rating": 4.6 },
+    { "id": "prod-efc34df7-019", "name": "Water Bottle", "category": "kitchen", "price": 499.00, "stock": 150, "rating": 4.2 },
+    { "id": "prod-efc34df7-020", "name": "Knife Set", "category": "kitchen", "price": 1299.00, "stock": 70, "rating": 4.4 }
   ],
   "aggregations": {
     "clothing": {
