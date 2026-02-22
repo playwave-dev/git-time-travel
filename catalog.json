@@ -26,7 +26,7 @@
     { "id": "prod-efc34df7-020", "name": "Elite Item 20", "category": "home", "price": 438.5, "stock": 92, "rating": 1.6 }
   ],
   "aggregations": {
-    "sports": { "count": 3, "inventoryValue": 18293.21 },
+    "sports": { "count": 3, "inventoryValue": 18301.269999999997 },
     "books": { "count": 3, "inventoryValue": 85757.78 },
     "home": { "count": 6, "inventoryValue": 145770.72000000003 },
     "clothing": { "count": 5, "inventoryValue": 126191.51 },
